@@ -1,1 +1,3 @@
-# not-virus
+This is not-virus.
+Install Pyautogui library before using!
+It will type some text and choose one of 4 scenarios...
